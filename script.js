@@ -44,6 +44,7 @@
 // }
 
 
+
   class GoodsItem {
       constructor(title, price) {
           this.title = title;
